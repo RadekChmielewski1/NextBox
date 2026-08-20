@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="177153bc-f10b-4f21-b885-b24b9c897b15" name="Changes" comment="polaczenie z arduino">
+      <change beforePath="$PROJECT_DIR$/../../elektronika/main_arduino/lcd.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../../elektronika/main_arduino/lcd.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elektronika/main_arduino/lockerControler.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../../elektronika/main_arduino/lockerControler.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elektronika/main_arduino/main_arduino.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../../elektronika/main_arduino/main_arduino.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../elektronika/main_arduino/temp.ino" beforeDir="false" afterPath="$PROJECT_DIR$/../../elektronika/main_arduino/temp.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controlPanel.php" beforeDir="false" afterPath="$PROJECT_DIR$/controlPanel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery.php" beforeDir="false" afterPath="$PROJECT_DIR$/delivery.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/panel.php" beforeDir="false" afterPath="$PROJECT_DIR$/panel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/controlPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/controlPanel.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="PHP File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="35ODw60RJ0srSf2SGocyaxwmcWr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projekt IT\projekt_paczkomat\strona\client\style" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PS-252.26830.95" />
+        <option value="bundled-php-predefined-a98d8de5180a-9b563d34894c-com.jetbrains.php.sharedIndexes-PS-252.26830.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="177153bc-f10b-4f21-b885-b24b9c897b15" name="Changes" comment="" />
+      <created>1762972460430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762972460430</updated>
+      <workItem from="1762972462344" duration="21000" />
+      <workItem from="1762972598152" duration="1318000" />
+      <workItem from="1762980039006" duration="2146000" />
+      <workItem from="1763238503317" duration="774000" />
+      <workItem from="1763574352275" duration="2871000" />
+      <workItem from="1763926931011" duration="461000" />
+      <workItem from="1763969928396" duration="25000" />
+      <workItem from="1763970200846" duration="602000" />
+      <workItem from="1763980286027" duration="5000" />
+      <workItem from="1764497231471" duration="97000" />
+      <workItem from="1764512311708" duration="643000" />
+      <workItem from="1764848006444" duration="444000" />
+      <workItem from="1765461329750" duration="1767000" />
+      <workItem from="1765477710083" duration="3750000" />
+      <workItem from="1765483625668" duration="3110000" />
+      <workItem from="1765533752400" duration="2588000" />
+      <workItem from="1765713803577" duration="1492000" />
+      <workItem from="1765830542755" duration="189000" />
+      <workItem from="1767024791325" duration="949000" />
+      <workItem from="1767046946259" duration="1208000" />
+      <workItem from="1767107819286" duration="4558000" />
+      <workItem from="1767177234380" duration="5286000" />
+      <workItem from="1767379962556" duration="977000" />
+      <workItem from="1768056944350" duration="11537000" />
+      <workItem from="1768935333701" duration="3727000" />
+      <workItem from="1769442932853" duration="6479000" />
+    </task>
+    <task id="LOCAL-00001" summary="polaczenie z arduino">
+      <option name="closed" value="true" />
+      <created>1765533926754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765533926754</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="polaczenie z arduino" />
+    <option name="LAST_COMMIT_MESSAGE" value="polaczenie z arduino" />
+  </component>
+</project>
