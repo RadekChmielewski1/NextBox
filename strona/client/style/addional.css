@@ -1,0 +1,11 @@
+.main-box{
+    height: 80vh;
+    width: 100%;
+}
+.main-index{
+    width: 80vw;
+}
+.form-signin{
+    max-width: 330px;
+    padding: 1rem;
+}

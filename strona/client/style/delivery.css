@@ -1,0 +1,20 @@
+.table-custom thead {
+    background-color: #ffc107;
+    color: #000;
+}
+
+.table-custom tbody {
+    background-color: #212529;
+    color: #fff;
+}
+
+.table-custom tbody tr:hover {
+    background-color: #343a40;
+}
+
+.dt-layout-row{
+    color:white;
+}
+table-responsive{
+    overflow-x: hidden;
+}
